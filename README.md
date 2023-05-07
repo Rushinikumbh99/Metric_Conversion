@@ -15,8 +15,8 @@ API  		   : https://localhost:7135/api/Conversion?Conversion_From=Kelvin&Convers
 
 Parameter      : Conversion_From (string) , Conversion_To(string), Value(double)
 
-Conversions    : Centimeters to Inches  & Inches to Centimeters
-		     Squaremeter to SquareFoot & SquareFoot to Squaremeter	 
+Conversions    : Centimeters to Inches  & Inches to Centimeters,
+		     Squaremeter to SquareFoot & SquareFoot to Squaremeter,	 
 		     Degree to Kelvin & Kelvin to Degree
 		    
 Excluded Files : WeatherForecast.cs & WeatherForecastController 
